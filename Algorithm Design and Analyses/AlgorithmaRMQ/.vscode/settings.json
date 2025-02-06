@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "sparsetable.h": "c",
+        "stdlib.h": "c",
+        "precomputenone.h": "c"
+    }
+}
